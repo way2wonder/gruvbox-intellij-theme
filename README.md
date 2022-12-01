@@ -1,13 +1,9 @@
-# ⚠️ DEPRECATED
-
- This extension is now deprecated. I have not been using this extension for years and I don't have time to maintain this project anymore.
- 
- I hope that someone will eventually fork and maintain a new repo.
- 
-# Gruvbox Intellij IDEA Theme
+# Gruvbox Intellij IDE Theme
 
 <!-- Plugin description -->
 ![screenshot](https://plugins.jetbrains.com/files/12310/screenshot_19486.png)
+
+Fork from https://plugins.jetbrains.com/plugin/12310-gruvbox-theme.
 
 gruvbox is heavily inspired by badwolf, jellybeans and solarized.
 
