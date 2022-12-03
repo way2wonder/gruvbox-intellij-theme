@@ -1,8 +1,7 @@
 # Gruvbox Intellij IDE Theme
+![screenshot](https://plugins.jetbrains.com/files/20558/screenshot_3a50152b-2526-4dd4-b449-bf26cf0d8160)
 
 <!-- Plugin description -->
-![screenshot](https://plugins.jetbrains.com/files/12310/screenshot_19486.png)
-
 Fork from https://plugins.jetbrains.com/plugin/12310-gruvbox-theme.
 
 gruvbox is heavily inspired by badwolf, jellybeans and solarized.
