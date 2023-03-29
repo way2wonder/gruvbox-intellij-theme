@@ -4,6 +4,11 @@
 
 ## Unreleased
 
+## 0.6.1
+
+### Added
+- 2023.1 support
+
 ## 0.6.0
 
 ### Added
